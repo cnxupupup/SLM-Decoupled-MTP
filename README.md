@@ -1,6 +1,8 @@
 # Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction
 [![arXiv]()]()
 [![demo](https://img.shields.io/badge/GitHub-Demo%20page-orange.svg)](https://cnxupupup.github.io/SLM-Decoupled-MTP-Demo)
+
+
 Official implementation of paper **Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction**.
 
 ## Overview
