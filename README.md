@@ -11,8 +11,8 @@ Speech-language models (SLMs) offer a promising path toward unifying speech and 
 ## Citation
 If you find our work helpful or relevant to your research, please kindly cite our paper:
 ```text
-@misc{fan2025speechlanguagemodelsdecoupledtokenizers,
-      title={Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction}, 
+@misc{fan2025makesgoodspeechtokenizer,
+      title={What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study}, 
       author={Xiaoran Fan and Zhichao Sun and Yangfan Gao and Jingfei Xiong and Hang Yan and Yifei Cao and Jiajun Sun and Shuo Li and Zhihao Zhang and Zhiheng Xi and Yuhao Zhou and Senjie Jin and Changhao Jiang and Junjie Ye and Ming Zhang and Rui Zheng and Zhenhua Han and Yunke Zhang and Demei Yan and Shaokang Dong and Tao Ji and Tao Gui and Qi Zhang and Xuanjing Huang},
       year={2025},
       eprint={2506.12537},
