@@ -1,4 +1,4 @@
-# What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study
+# (AAAI '26) What Makes a Good Speech Tokenizer for LLM-Centric Speech Generation? A Systematic Study
 [![arXiv](https://img.shields.io/badge/arXiv-2506.12537-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2506.12537)
 [![demo](https://img.shields.io/badge/GitHub-Demo%20page-orange.svg)](https://cnxupupup.github.io/SLM-Decoupled-MTP-Demo)
 
