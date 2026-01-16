@@ -9,7 +9,7 @@ Official implementation of paper **What Makes a Good Speech Tokenizer for LLM-Ce
 Speech-language models (SLMs) offer a promising path toward unifying speech and text understanding and generation. However, challenges remain in achieving effective crossmodal alignment and high-quality speech generation. In this work, we systematically investigate the role of speech tokenizer designs in LLM-centric SLMs, augmented by speech heads and speaker modeling. We compare coupled, semidecoupled, and fully decoupled speech tokenizers under a fair SLM framework and find that decoupled tokenization significantly improves alignment and synthesis quality. To address the information density mismatch between speech and text, we introduce multi-token prediction (MTP) into SLMs, enabling each hidden state to decode multiple speech tokens. This leads to up to 12× faster decoding and a substantial drop in word error rate (from 6.07 to 3.01). Furthermore, we propose a speaker-aware generation paradigm and introduce RoleTriviaQA, a large-scale role-playing knowledge QA benchmark with diverse speaker identities. Experiments demonstrate that our methods enhance both knowledge understanding and speaker consistency.
 
 ## TODOs
-- [ ] Architecture code of the NTP, MTP and Role-Playing task w/ and w/o speaker aware.
+- [ ] Architecture code of the NTP, MTP and Role-Playing Knowledge Speech QA task w/ and w/o speaker aware.
 - [x] RoleTriviaQA dataset
 - [ ] Training code
 - [ ] Inference code
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Training
 
-TBD
+**[2026.01.16]** The NTP training code has been released.
 
 ## Inference
 
