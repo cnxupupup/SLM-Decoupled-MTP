@@ -18,7 +18,7 @@ from ..utils.prompter import Prompter, normalize_token, normalize_text
 from ..utils.collator.ntp import DataCollator
 
 from ..model.tts.modeling_ntp import ModelForQwen2
-from ..model.tts.configuration import ModelConfig
+from ..model.tts.configuration_ntp import ModelConfig
 
 
 

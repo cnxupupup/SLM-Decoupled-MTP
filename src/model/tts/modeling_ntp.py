@@ -6,7 +6,7 @@ import os
 from torch.nn import functional as F
 import glob
 
-from .configuration import ModelConfig
+from .configuration_ntp import ModelConfig
 
 
 class PretrainedModelForQwen2(Qwen2PreTrainedModel):
