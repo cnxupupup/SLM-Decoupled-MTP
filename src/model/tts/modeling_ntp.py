@@ -148,7 +148,6 @@ class ModelForQwen2(PretrainedModelForQwen2):
     def generate(self, 
                 input_ids,
                 spk_emb,
-                attention_mask=None,
                 do_sample=False,
                 use_cache=True,
                 temperature_text=1.0,
