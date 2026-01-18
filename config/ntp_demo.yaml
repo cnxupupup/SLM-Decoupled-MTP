@@ -4,7 +4,7 @@ attn_implementation: "flash_attention_2"
 spk_emb_dim: 256 # unused if "spk_aware" is false
 
 # DataArguments
-data_path: "YOUR_DATA_PATH"
+data_path: "demo_data/slm-ntp-data/example.jsonl"
 text_data_path: "" # only used if text data is needed at pre-training stage
 spk_aware: false
 
